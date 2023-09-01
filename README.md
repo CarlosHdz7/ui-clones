@@ -16,3 +16,4 @@ This repository is a list of UI-only projects that I made to master CSS Skills w
 ## List of projects
 
 - [Discord UI](https://github.com/CarlosHdz7/discord-ui)
+- [Whatsapp UI](https://github.com/CarlosHdz7/whatsapp-ui)
